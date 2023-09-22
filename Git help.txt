@@ -1,0 +1,4 @@
+git branch -m master hackerrank
+git fetch origin
+git branch -u origin/hackerrank hackerrank
+git remote set-head origin -a
